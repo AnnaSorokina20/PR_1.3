@@ -1,0 +1,14 @@
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.3\PR_1.3\PR_1.3\bin\Debug\net8.0\PR_1.3.exe
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.3\PR_1.3\PR_1.3\bin\Debug\net8.0\PR_1.3.deps.json
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.3\PR_1.3\PR_1.3\bin\Debug\net8.0\PR_1.3.runtimeconfig.json
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.3\PR_1.3\PR_1.3\bin\Debug\net8.0\PR_1.3.dll
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.3\PR_1.3\PR_1.3\bin\Debug\net8.0\PR_1.3.pdb
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.3\PR_1.3\PR_1.3\obj\Debug\net8.0\PR_1.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.3\PR_1.3\PR_1.3\obj\Debug\net8.0\PR_1.3.AssemblyInfoInputs.cache
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.3\PR_1.3\PR_1.3\obj\Debug\net8.0\PR_1.3.AssemblyInfo.cs
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.3\PR_1.3\PR_1.3\obj\Debug\net8.0\PR_1.3.csproj.CoreCompileInputs.cache
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.3\PR_1.3\PR_1.3\obj\Debug\net8.0\PR_1.3.dll
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.3\PR_1.3\PR_1.3\obj\Debug\net8.0\refint\PR_1.3.dll
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.3\PR_1.3\PR_1.3\obj\Debug\net8.0\PR_1.3.pdb
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.3\PR_1.3\PR_1.3\obj\Debug\net8.0\PR_1.3.genruntimeconfig.cache
+D:\ХАИ\3 курс\2 Семестр\Алг Сист прийняття рішень\Lab1.3\PR_1.3\PR_1.3\obj\Debug\net8.0\ref\PR_1.3.dll
